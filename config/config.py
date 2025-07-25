@@ -1,0 +1,59 @@
+"""
+Configuration settings for the DeFi Wallet Risk Scoring System
+"""
+
+# Risk factor weights (must sum to 1.0)
+RISK_WEIGHTS = {
+    'liquidation_risk': 0.25,  # Health factor and liquidation history
+    'leverage_risk': 0.20,     # Debt-to-collateral ratios
+    'volatility_risk': 0.20,   # Transaction pattern volatility
+    'activity_risk': 0.15,     # Activity frequency and diversity
+    'concentration_risk': 0.10, # Asset concentration
+    'protocol_risk': 0.10      # Protocol interaction patterns
+}
+
+# API Configuration
+API_RATE_LIMIT = 5  # Requests per second for Etherscan API
+MAX_RETRIES = 3     # Maximum retry attempts for failed requests
+REQUEST_TIMEOUT = 30 # Request timeout in seconds
+BATCH_SIZE = 10     # Number of wallets to process in parallel
+
+# Default values
+DEFAULT_RISK_SCORE = 350  # Default score for wallets with insufficient data
+MIN_TRANSACTIONS_FOR_ANALYSIS = 1  # Minimum transactions needed for full analysis
+
+# Score thresholds for risk levels
+RISK_THRESHOLDS = {
+    'low': 200,
+    'medium_low': 400,
+    'medium': 600,
+    'high': 800,
+    'very_high': 1000
+}
+
+# Health factor thresholds
+HEALTH_FACTOR_THRESHOLDS = {
+    'critical': 1.0,
+    'very_high_risk': 1.2,
+    'high_risk': 1.5,
+    'medium_risk': 2.0,
+    'low_risk': float('inf')
+}
+
+# Leverage ratio thresholds
+LEVERAGE_THRESHOLDS = {
+    'low': 0.3,
+    'medium': 0.5,
+    'high': 0.7,
+    'very_high': 0.8,
+    'extreme': 1.0
+}
+
+# Gas price thresholds (in Gwei)
+GAS_PRICE_THRESHOLDS = {
+    'normal': 20,
+    'high': 50,
+    'extreme': 100
+}
+
+# Activity frequency thresh

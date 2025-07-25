@@ -17,12 +17,18 @@ from datetime import datetime
 from pathlib import Path
 
 # Add src directory to path
-sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'src'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 
 from data_collector import CompoundDataCollector
 from feature_extractor import RiskFeatureExtractor
 from risk_scorer import WalletRiskScorer
-from config.config import *
+# from config.config import *
+# from config.config import API_RATE_LIMIT, MAX_RETRIES, REQUEST_TIMEOUT, BATCH_SIZE
+from config.config import (
+    API_RATE_LIMIT, MAX_RETRIES, REQUEST_TIMEOUT, BATCH_SIZE,
+    DEFAULT_RISK_SCORE, MIN_TRANSACTIONS_FOR_ANALYSIS, RISK_WEIGHTS,
+    LOG_LEVEL, LOG_FILE, RAW_DATA_PATH, OUTPUT_PATH, INPUT_WALLET_FILE
+)
 
 def setup_directories():
     """Create necessary directories if they don't exist."""
@@ -107,6 +113,20 @@ def print_summary_statistics(scores):
         percentage = (count / len(score_values)) * 100
         print(f"  {risk_level}: {count} wallets ({percentage:.1f}%)")
 
+def plot_risk_distribution(scores):
+    import matplotlib.pyplot as plt
+    score_values = list(scores.values())
+    bins = [0, 200, 400, 600, 800, 1000]
+    labels = ['Low (0-200)', 'Medium-Low (201-400)', 'Medium (401-600)', 'High (601-800)', 'Very High (801-1000)']
+    plt.hist(score_values, bins=bins, edgecolor='black')
+    plt.xlabel('Risk Score')
+    plt.ylabel('Number of Wallets')
+    plt.title('Risk Score Distribution')
+    plt.xticks(bins, labels, rotation=45)
+    plt.tight_layout()
+    plt.savefig('output/risk_distribution.png')
+    plt.close()        
+
 def main():
     """Main execution function."""
     print("="*60)
@@ -178,6 +198,9 @@ def main():
     
     # Print summary
     print_summary_statistics(scores)
+    
+    # Plot risk distribution
+    plot_risk_distribution(scores)
     
     # Print errors if any
     if errors:

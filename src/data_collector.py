@@ -9,7 +9,9 @@ import json
 from datetime import datetime, timedelta
 from typing import Dict, List, Optional
 import os
-from config.config import *
+# from config.config import *
+from config.config import API_RATE_LIMIT, MAX_RETRIES, REQUEST_TIMEOUT, BATCH_SIZE
+from config.api_keys import ETHERSCAN_API_KEY
 
 class CompoundDataCollector:
     """Collects transaction data from various sources for Compound protocol analysis."""

@@ -13,7 +13,7 @@ RISK_WEIGHTS = {
 }
 
 # API Configuration
-API_RATE_LIMIT = 5  # Requests per second for Etherscan API
+API_RATE_LIMIT = 2  # Requests per second for Etherscan API (5 request rate limit)
 MAX_RETRIES = 3     # Maximum retry attempts for failed requests
 REQUEST_TIMEOUT = 30 # Request timeout in seconds
 BATCH_SIZE = 10     # Number of wallets to process in parallel

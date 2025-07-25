@@ -56,4 +56,28 @@ GAS_PRICE_THRESHOLDS = {
     'extreme': 100
 }
 
-# Activity frequency thresh
+# Activity frequency thresholds (in days)
+ACTIVITY_FREQUENCY_THRESHOLDS = {
+    'very_frequent': 1,    # More than once per day
+    'frequent': 7,         # More than once per week
+    'normal': 30,          # More than once per month
+    'infrequent': 90,      # More than once per quarter
+    'very_infrequent': float('inf')  # Less frequent than quarterly
+}
+
+# Concentration thresholds (Herfindahl-Hirschman Index)
+CONCENTRATION_THRESHOLDS = {
+    'well_diversified': 0.3,
+    'moderately_diversified': 0.5,
+    'somewhat_concentrated': 0.7,
+    'highly_concentrated': 1.0
+}
+
+# Logging configuration
+LOG_LEVEL = 'INFO'  # Options: DEBUG, INFO, WARNING, ERROR, CRITICAL
+LOG_FILE = 'logs/risk_scoring.log'  # Path for log file
+
+# Data storage paths
+RAW_DATA_PATH = 'data/raw'
+OUTPUT_PATH = 'output'
+INPUT_WALLET_FILE = 'data/input/wallet_addresses.csv'

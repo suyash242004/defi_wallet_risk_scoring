@@ -178,7 +178,7 @@ class WalletRiskScorer:
         else:
             return "Very High Risk - Critical risk factors, immediate review required"
     
-    def get_risk_recommendations(self, features: Dict, score: int) -> List[str]:
+    def get_risk_recommendations(self, features: Dict, score: int) -> list[str]:
         """Generate risk-based recommendations."""
         recommendations = []
         

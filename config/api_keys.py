@@ -11,7 +11,7 @@ load_dotenv()
 ETHERSCAN_API_KEY = os.getenv('ETHERSCAN_API_KEY')
 
 
-print("[DEBUG] API KEY:", ETHERSCAN_API_KEY) 
+# print("[DEBUG] API KEY:", ETHERSCAN_API_KEY) 
 
 if not ETHERSCAN_API_KEY:
     raise ValueError("ETHERSCAN_API_KEY environment variable not set")

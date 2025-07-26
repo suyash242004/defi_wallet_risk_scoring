@@ -3,7 +3,7 @@
     "total_score": 373,
     "features": {
       "wallet_address": "0x0039f22efb07a647557c7c5d17854cfd6d489ef3",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -43,13 +43,13 @@
         "final_score": 373
       }
     },
-    "analysis_timestamp": "2025-07-26T01:04:43.988452"
+    "analysis_timestamp": "2025-07-26T11:31:07.823236"
   },
   "0x06b51c6882b27cb05e712185531c1f74996dd988": {
     "total_score": 177,
     "features": {
       "wallet_address": "0x06b51c6882b27cb05e712185531c1f74996dd988",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -87,13 +87,13 @@
         "final_score": 177
       }
     },
-    "analysis_timestamp": "2025-07-26T01:04:46.809822"
+    "analysis_timestamp": "2025-07-26T11:31:10.273617"
   },
   "0x0795732aacc448030ef374374eaae57d2965c16c": {
     "total_score": 177,
     "features": {
       "wallet_address": "0x0795732aacc448030ef374374eaae57d2965c16c",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -131,13 +131,13 @@
         "final_score": 177
       }
     },
-    "analysis_timestamp": "2025-07-26T01:04:49.225756"
+    "analysis_timestamp": "2025-07-26T11:31:12.933001"
   },
   "0x0aaa79f1a86bc8136cd0d1ca0d51964f4e3766f9": {
     "total_score": 190,
     "features": {
       "wallet_address": "0x0aaa79f1a86bc8136cd0d1ca0d51964f4e3766f9",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -175,13 +175,13 @@
         "final_score": 190
       }
     },
-    "analysis_timestamp": "2025-07-26T01:04:52.129918"
+    "analysis_timestamp": "2025-07-26T11:31:15.446190"
   },
   "0x0fe383e5abc200055a7f391f94a5f5d1f844b9ae": {
     "total_score": 177,
     "features": {
       "wallet_address": "0x0fe383e5abc200055a7f391f94a5f5d1f844b9ae",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -219,13 +219,13 @@
         "final_score": 177
       }
     },
-    "analysis_timestamp": "2025-07-26T01:04:54.811091"
+    "analysis_timestamp": "2025-07-26T11:31:18.101550"
   },
   "0x104ae61d8d487ad689969a17807ddc338b445416": {
     "total_score": 190,
     "features": {
       "wallet_address": "0x104ae61d8d487ad689969a17807ddc338b445416",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -263,13 +263,13 @@
         "final_score": 190
       }
     },
-    "analysis_timestamp": "2025-07-26T01:04:57.258750"
+    "analysis_timestamp": "2025-07-26T11:31:20.784397"
   },
   "0x111c7208a7e2af345d36b6d4aace8740d61a3078": {
     "total_score": 300,
     "features": {
       "wallet_address": "0x111c7208a7e2af345d36b6d4aace8740d61a3078",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -309,13 +309,13 @@
         "final_score": 300
       }
     },
-    "analysis_timestamp": "2025-07-26T01:05:00.005395"
+    "analysis_timestamp": "2025-07-26T11:31:23.436322"
   },
   "0x124853fecb522c57d9bd5c21231058696ca6d596": {
     "total_score": 340,
     "features": {
       "wallet_address": "0x124853fecb522c57d9bd5c21231058696ca6d596",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -355,13 +355,13 @@
         "final_score": 340
       }
     },
-    "analysis_timestamp": "2025-07-26T01:05:02.739312"
+    "analysis_timestamp": "2025-07-26T11:31:26.108027"
   },
   "0x13b1c8b0e696aff8b4fee742119b549b605f3cbc": {
     "total_score": 164,
     "features": {
       "wallet_address": "0x13b1c8b0e696aff8b4fee742119b549b605f3cbc",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -399,13 +399,13 @@
         "final_score": 164
       }
     },
-    "analysis_timestamp": "2025-07-26T01:05:05.197129"
+    "analysis_timestamp": "2025-07-26T11:31:28.770113"
   },
   "0x1656f1886c5ab634ac19568cd571bc72f385fdf7": {
     "total_score": 373,
     "features": {
       "wallet_address": "0x1656f1886c5ab634ac19568cd571bc72f385fdf7",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -445,13 +445,13 @@
         "final_score": 373
       }
     },
-    "analysis_timestamp": "2025-07-26T01:05:08.650587"
+    "analysis_timestamp": "2025-07-26T11:31:32.221089"
   },
   "0x1724e16cb8d0e2aa4d08035bc6b5c56b680a3b22": {
     "total_score": 128,
     "features": {
       "wallet_address": "0x1724e16cb8d0e2aa4d08035bc6b5c56b680a3b22",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -487,13 +487,13 @@
         "final_score": 128
       }
     },
-    "analysis_timestamp": "2025-07-26T01:05:11.233869"
+    "analysis_timestamp": "2025-07-26T11:31:34.651578"
   },
   "0x19df3e87f73c4aaf4809295561465b993e102668": {
     "total_score": 177,
     "features": {
       "wallet_address": "0x19df3e87f73c4aaf4809295561465b993e102668",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -531,13 +531,13 @@
         "final_score": 177
       }
     },
-    "analysis_timestamp": "2025-07-26T01:05:14.218443"
+    "analysis_timestamp": "2025-07-26T11:31:37.439352"
   },
   "0x1ab2ccad4fc97c9968ea87d4435326715be32872": {
     "total_score": 164,
     "features": {
       "wallet_address": "0x1ab2ccad4fc97c9968ea87d4435326715be32872",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -575,13 +575,13 @@
         "final_score": 164
       }
     },
-    "analysis_timestamp": "2025-07-26T01:05:16.791723"
+    "analysis_timestamp": "2025-07-26T11:31:40.171805"
   },
   "0x1c1b30ca93ef57452d53885d97a74f61daf2bf4f": {
     "total_score": 385,
     "features": {
       "wallet_address": "0x1c1b30ca93ef57452d53885d97a74f61daf2bf4f",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -621,13 +621,13 @@
         "final_score": 385
       }
     },
-    "analysis_timestamp": "2025-07-26T01:05:19.452336"
+    "analysis_timestamp": "2025-07-26T11:31:42.863775"
   },
   "0x1e43dacdcf863676a6bec8f7d6896d6252fac669": {
     "total_score": 300,
     "features": {
       "wallet_address": "0x1e43dacdcf863676a6bec8f7d6896d6252fac669",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -667,13 +667,13 @@
         "final_score": 300
       }
     },
-    "analysis_timestamp": "2025-07-26T01:05:22.100825"
+    "analysis_timestamp": "2025-07-26T11:31:45.312534"
   },
   "0x22d7510588d90ed5a87e0f838391aaafa707c34b": {
     "total_score": 144,
     "features": {
       "wallet_address": "0x22d7510588d90ed5a87e0f838391aaafa707c34b",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -713,13 +713,13 @@
         "final_score": 144
       }
     },
-    "analysis_timestamp": "2025-07-26T01:05:25.050455"
+    "analysis_timestamp": "2025-07-26T11:31:48.305822"
   },
   "0x24b3460622d835c56d9a4fe352966b9bdc6c20af": {
     "total_score": 194,
     "features": {
       "wallet_address": "0x24b3460622d835c56d9a4fe352966b9bdc6c20af",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -757,13 +757,13 @@
         "final_score": 194
       }
     },
-    "analysis_timestamp": "2025-07-26T01:05:27.511441"
+    "analysis_timestamp": "2025-07-26T11:31:50.887575"
   },
   "0x26750f1f4277221bdb5f6991473c6ece8c821f9d": {
     "total_score": 177,
     "features": {
       "wallet_address": "0x26750f1f4277221bdb5f6991473c6ece8c821f9d",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -801,13 +801,13 @@
         "final_score": 177
       }
     },
-    "analysis_timestamp": "2025-07-26T01:05:30.192344"
+    "analysis_timestamp": "2025-07-26T11:31:53.689177"
   },
   "0x27f72a000d8e9f324583f3a3491ea66998275b28": {
     "total_score": 164,
     "features": {
       "wallet_address": "0x27f72a000d8e9f324583f3a3491ea66998275b28",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -845,13 +845,13 @@
         "final_score": 164
       }
     },
-    "analysis_timestamp": "2025-07-26T01:05:32.947155"
+    "analysis_timestamp": "2025-07-26T11:31:56.301602"
   },
   "0x2844658bf341db96aa247259824f42025e3bcec2": {
     "total_score": 177,
     "features": {
       "wallet_address": "0x2844658bf341db96aa247259824f42025e3bcec2",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -889,13 +889,13 @@
         "final_score": 177
       }
     },
-    "analysis_timestamp": "2025-07-26T01:05:35.696719"
+    "analysis_timestamp": "2025-07-26T11:31:58.760900"
   },
   "0x2a2fde3e1beb508fcf7c137a1d5965f13a17825e": {
     "total_score": 164,
     "features": {
       "wallet_address": "0x2a2fde3e1beb508fcf7c137a1d5965f13a17825e",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -933,13 +933,13 @@
         "final_score": 164
       }
     },
-    "analysis_timestamp": "2025-07-26T01:05:38.205736"
+    "analysis_timestamp": "2025-07-26T11:32:01.420504"
   },
   "0x330513970efd9e8dd606275fb4c50378989b3204": {
     "total_score": 347,
     "features": {
       "wallet_address": "0x330513970efd9e8dd606275fb4c50378989b3204",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -979,13 +979,13 @@
         "final_score": 347
       }
     },
-    "analysis_timestamp": "2025-07-26T01:05:41.055732"
+    "analysis_timestamp": "2025-07-26T11:32:04.209938"
   },
   "0x3361bea43c2f5f963f81ac70f64e6fba1f1d2a97": {
     "total_score": 328,
     "features": {
       "wallet_address": "0x3361bea43c2f5f963f81ac70f64e6fba1f1d2a97",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -1025,13 +1025,13 @@
         "final_score": 328
       }
     },
-    "analysis_timestamp": "2025-07-26T01:05:43.969874"
+    "analysis_timestamp": "2025-07-26T11:32:07.034867"
   },
   "0x3867d222ba91236ad4d12c31056626f9e798629c": {
     "total_score": 164,
     "features": {
       "wallet_address": "0x3867d222ba91236ad4d12c31056626f9e798629c",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -1069,13 +1069,13 @@
         "final_score": 164
       }
     },
-    "analysis_timestamp": "2025-07-26T01:05:46.715626"
+    "analysis_timestamp": "2025-07-26T11:32:09.825727"
   },
   "0x3a44be4581137019f83021eeee72b7dc57756069": {
     "total_score": 177,
     "features": {
       "wallet_address": "0x3a44be4581137019f83021eeee72b7dc57756069",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -1113,13 +1113,13 @@
         "final_score": 177
       }
     },
-    "analysis_timestamp": "2025-07-26T01:05:49.250725"
+    "analysis_timestamp": "2025-07-26T11:32:12.288221"
   },
   "0x3e69ad05716bdc834db72c4d6d44439a7c8a902b": {
     "total_score": 164,
     "features": {
       "wallet_address": "0x3e69ad05716bdc834db72c4d6d44439a7c8a902b",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -1157,13 +1157,13 @@
         "final_score": 164
       }
     },
-    "analysis_timestamp": "2025-07-26T01:05:54.113423"
+    "analysis_timestamp": "2025-07-26T11:32:15.023980"
   },
   "0x427f2ac5fdf4245e027d767e7c3ac272a1f40a65": {
     "total_score": 383,
     "features": {
       "wallet_address": "0x427f2ac5fdf4245e027d767e7c3ac272a1f40a65",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -1203,13 +1203,13 @@
         "final_score": 383
       }
     },
-    "analysis_timestamp": "2025-07-26T01:05:57.099920"
+    "analysis_timestamp": "2025-07-26T11:32:18.507343"
   },
   "0x4814be124d7fe3b240eb46061f7ddfab468fe122": {
     "total_score": 384,
     "features": {
       "wallet_address": "0x4814be124d7fe3b240eb46061f7ddfab468fe122",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -1249,13 +1249,13 @@
         "final_score": 384
       }
     },
-    "analysis_timestamp": "2025-07-26T01:06:00.592272"
+    "analysis_timestamp": "2025-07-26T11:32:22.068405"
   },
   "0x4839e666e2baf12a51bf004392b35972eeddeabf": {
     "total_score": 366,
     "features": {
       "wallet_address": "0x4839e666e2baf12a51bf004392b35972eeddeabf",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -1295,13 +1295,13 @@
         "final_score": 366
       }
     },
-    "analysis_timestamp": "2025-07-26T01:06:03.178143"
+    "analysis_timestamp": "2025-07-26T11:32:25.207685"
   },
   "0x4c4d05fe859279c91b074429b5fc451182cec745": {
     "total_score": 326,
     "features": {
       "wallet_address": "0x4c4d05fe859279c91b074429b5fc451182cec745",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -1341,13 +1341,13 @@
         "final_score": 326
       }
     },
-    "analysis_timestamp": "2025-07-26T01:06:05.666391"
+    "analysis_timestamp": "2025-07-26T11:32:33.673988"
   },
   "0x4d997c89bc659a3e8452038a8101161e7e7e53a7": {
     "total_score": 356,
     "features": {
       "wallet_address": "0x4d997c89bc659a3e8452038a8101161e7e7e53a7",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -1387,13 +1387,13 @@
         "final_score": 356
       }
     },
-    "analysis_timestamp": "2025-07-26T01:06:08.820144"
+    "analysis_timestamp": "2025-07-26T11:32:37.071351"
   },
   "0x4db0a72edb5ea6c55df929f76e7d5bb14e389860": {
     "total_score": 190,
     "features": {
       "wallet_address": "0x4db0a72edb5ea6c55df929f76e7d5bb14e389860",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -1431,13 +1431,13 @@
         "final_score": 190
       }
     },
-    "analysis_timestamp": "2025-07-26T01:06:11.752887"
+    "analysis_timestamp": "2025-07-26T11:32:39.900545"
   },
   "0x4e61251336c32e4fe6bfd5fab014846599321389": {
     "total_score": 177,
     "features": {
       "wallet_address": "0x4e61251336c32e4fe6bfd5fab014846599321389",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -1475,13 +1475,13 @@
         "final_score": 177
       }
     },
-    "analysis_timestamp": "2025-07-26T01:06:14.306927"
+    "analysis_timestamp": "2025-07-26T11:32:42.672891"
   },
   "0x4e6e724f4163b24ffc7ffe662b5f6815b18b4210": {
     "total_score": 164,
     "features": {
       "wallet_address": "0x4e6e724f4163b24ffc7ffe662b5f6815b18b4210",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -1519,13 +1519,13 @@
         "final_score": 164
       }
     },
-    "analysis_timestamp": "2025-07-26T01:06:16.902744"
+    "analysis_timestamp": "2025-07-26T11:32:45.440432"
   },
   "0x507b6c0d950702f066a9a1bd5e85206f87b065ba": {
     "total_score": 340,
     "features": {
       "wallet_address": "0x507b6c0d950702f066a9a1bd5e85206f87b065ba",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -1565,13 +1565,13 @@
         "final_score": 340
       }
     },
-    "analysis_timestamp": "2025-07-26T01:06:19.746335"
+    "analysis_timestamp": "2025-07-26T11:32:48.385178"
   },
   "0x54e19653be9d4143b08994906be0e27555e8834d": {
     "total_score": 269,
     "features": {
       "wallet_address": "0x54e19653be9d4143b08994906be0e27555e8834d",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -1611,13 +1611,13 @@
         "final_score": 269
       }
     },
-    "analysis_timestamp": "2025-07-26T01:06:22.554482"
+    "analysis_timestamp": "2025-07-26T11:32:50.913414"
   },
   "0x56ba823641bfc317afc8459bf27feed6eb9ff59f": {
     "total_score": 177,
     "features": {
       "wallet_address": "0x56ba823641bfc317afc8459bf27feed6eb9ff59f",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -1655,13 +1655,13 @@
         "final_score": 177
       }
     },
-    "analysis_timestamp": "2025-07-26T01:06:25.293906"
+    "analysis_timestamp": "2025-07-26T11:32:53.712033"
   },
   "0x56cc2bffcb3f86a30c492f9d1a671a1f744d1d2f": {
     "total_score": 190,
     "features": {
       "wallet_address": "0x56cc2bffcb3f86a30c492f9d1a671a1f744d1d2f",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -1699,13 +1699,13 @@
         "final_score": 190
       }
     },
-    "analysis_timestamp": "2025-07-26T01:06:27.832476"
+    "analysis_timestamp": "2025-07-26T11:32:56.552602"
   },
   "0x578cea5f899b0dfbf05c7fbcfda1a644b2a47787": {
     "total_score": 190,
     "features": {
       "wallet_address": "0x578cea5f899b0dfbf05c7fbcfda1a644b2a47787",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -1743,13 +1743,13 @@
         "final_score": 190
       }
     },
-    "analysis_timestamp": "2025-07-26T01:06:30.633002"
+    "analysis_timestamp": "2025-07-26T11:32:59.270636"
   },
   "0x58c2a9099a03750e9842d3e9a7780cdd6aa70b86": {
     "total_score": 190,
     "features": {
       "wallet_address": "0x58c2a9099a03750e9842d3e9a7780cdd6aa70b86",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -1787,13 +1787,13 @@
         "final_score": 190
       }
     },
-    "analysis_timestamp": "2025-07-26T01:06:33.429549"
+    "analysis_timestamp": "2025-07-26T11:33:02.020244"
   },
   "0x58d68d4bcf9725e40353379cec92b90332561683": {
     "total_score": 367,
     "features": {
       "wallet_address": "0x58d68d4bcf9725e40353379cec92b90332561683",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -1833,13 +1833,13 @@
         "final_score": 367
       }
     },
-    "analysis_timestamp": "2025-07-26T01:06:36.372942"
+    "analysis_timestamp": "2025-07-26T11:33:04.980009"
   },
   "0x5e324b4a564512ea7c93088dba2f8c1bf046a3eb": {
     "total_score": 164,
     "features": {
       "wallet_address": "0x5e324b4a564512ea7c93088dba2f8c1bf046a3eb",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -1877,13 +1877,13 @@
         "final_score": 164
       }
     },
-    "analysis_timestamp": "2025-07-26T01:06:39.161043"
+    "analysis_timestamp": "2025-07-26T11:33:07.715268"
   },
   "0x612a3500559be7be7703de6dc397afb541a16f7f": {
     "total_score": 341,
     "features": {
       "wallet_address": "0x612a3500559be7be7703de6dc397afb541a16f7f",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -1923,13 +1923,13 @@
         "final_score": 341
       }
     },
-    "analysis_timestamp": "2025-07-26T01:06:42.501873"
+    "analysis_timestamp": "2025-07-26T11:33:10.634854"
   },
   "0x623af911f493747c216ad389c7805a37019c662d": {
     "total_score": 174,
     "features": {
       "wallet_address": "0x623af911f493747c216ad389c7805a37019c662d",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -1967,13 +1967,13 @@
         "final_score": 174
       }
     },
-    "analysis_timestamp": "2025-07-26T01:06:44.935961"
+    "analysis_timestamp": "2025-07-26T11:33:13.525458"
   },
   "0x6a2752a534faacaaa153bffbb973dd84e0e5497b": {
     "total_score": 300,
     "features": {
       "wallet_address": "0x6a2752a534faacaaa153bffbb973dd84e0e5497b",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -2013,13 +2013,13 @@
         "final_score": 300
       }
     },
-    "analysis_timestamp": "2025-07-26T01:06:47.475007"
+    "analysis_timestamp": "2025-07-26T11:33:16.140077"
   },
   "0x6d69ca3711e504658977367e13c300ab198379f1": {
     "total_score": 177,
     "features": {
       "wallet_address": "0x6d69ca3711e504658977367e13c300ab198379f1",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -2057,13 +2057,13 @@
         "final_score": 177
       }
     },
-    "analysis_timestamp": "2025-07-26T01:06:49.946109"
+    "analysis_timestamp": "2025-07-26T11:33:18.868334"
   },
   "0x6e355417f7f56e7927d1cd971f0b5a1e6d538487": {
     "total_score": 300,
     "features": {
       "wallet_address": "0x6e355417f7f56e7927d1cd971f0b5a1e6d538487",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -2103,13 +2103,13 @@
         "final_score": 300
       }
     },
-    "analysis_timestamp": "2025-07-26T01:06:52.791388"
+    "analysis_timestamp": "2025-07-26T11:33:21.459779"
   },
   "0x70c1864282599a762c674dd9d567b37e13bce755": {
     "total_score": 164,
     "features": {
       "wallet_address": "0x70c1864282599a762c674dd9d567b37e13bce755",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -2147,13 +2147,13 @@
         "final_score": 164
       }
     },
-    "analysis_timestamp": "2025-07-26T01:06:55.223488"
+    "analysis_timestamp": "2025-07-26T11:33:24.189429"
   },
   "0x70d8e4ab175dfe0eab4e9a7f33e0a2d19f44001e": {
     "total_score": 373,
     "features": {
       "wallet_address": "0x70d8e4ab175dfe0eab4e9a7f33e0a2d19f44001e",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -2193,13 +2193,13 @@
         "final_score": 373
       }
     },
-    "analysis_timestamp": "2025-07-26T01:07:00.006475"
+    "analysis_timestamp": "2025-07-26T11:33:28.208406"
   },
   "0x7399dbeebe2f88bc6ac4e3fd7ddb836a4bce322f": {
     "total_score": 164,
     "features": {
       "wallet_address": "0x7399dbeebe2f88bc6ac4e3fd7ddb836a4bce322f",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -2237,13 +2237,13 @@
         "final_score": 164
       }
     },
-    "analysis_timestamp": "2025-07-26T01:07:03.555054"
+    "analysis_timestamp": "2025-07-26T11:33:30.920679"
   },
   "0x767055590c73b7d2aaa6219da13807c493f91a20": {
     "total_score": 164,
     "features": {
       "wallet_address": "0x767055590c73b7d2aaa6219da13807c493f91a20",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -2281,13 +2281,13 @@
         "final_score": 164
       }
     },
-    "analysis_timestamp": "2025-07-26T01:07:06.719583"
+    "analysis_timestamp": "2025-07-26T11:33:33.679181"
   },
   "0x7851bdfb64bbecfb40c030d722a1f147dff5db6a": {
     "total_score": 158,
     "features": {
       "wallet_address": "0x7851bdfb64bbecfb40c030d722a1f147dff5db6a",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -2323,13 +2323,13 @@
         "final_score": 158
       }
     },
-    "analysis_timestamp": "2025-07-26T01:07:09.389206"
+    "analysis_timestamp": "2025-07-26T11:33:36.392717"
   },
   "0x7b4636320daa0bc055368a4f9b9d01bd8ac51877": {
     "total_score": 190,
     "features": {
       "wallet_address": "0x7b4636320daa0bc055368a4f9b9d01bd8ac51877",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -2367,13 +2367,13 @@
         "final_score": 190
       }
     },
-    "analysis_timestamp": "2025-07-26T01:07:12.275627"
+    "analysis_timestamp": "2025-07-26T11:33:38.891331"
   },
   "0x7b57dbe2f2e4912a29754ff3e412ed9507fd8957": {
     "total_score": 350,
     "features": {
       "wallet_address": "0x7b57dbe2f2e4912a29754ff3e412ed9507fd8957",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -2413,13 +2413,13 @@
         "final_score": 350
       }
     },
-    "analysis_timestamp": "2025-07-26T01:07:14.979140"
+    "analysis_timestamp": "2025-07-26T11:33:41.561392"
   },
   "0x7be3dfb5b6fcbae542ea85e76cc19916a20f6c1e": {
     "total_score": 371,
     "features": {
       "wallet_address": "0x7be3dfb5b6fcbae542ea85e76cc19916a20f6c1e",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -2459,13 +2459,13 @@
         "final_score": 371
       }
     },
-    "analysis_timestamp": "2025-07-26T01:07:17.616438"
+    "analysis_timestamp": "2025-07-26T11:33:44.104036"
   },
   "0x7de76a449cf60ea3e111ff18b28e516d89532152": {
     "total_score": 164,
     "features": {
       "wallet_address": "0x7de76a449cf60ea3e111ff18b28e516d89532152",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -2503,13 +2503,13 @@
         "final_score": 164
       }
     },
-    "analysis_timestamp": "2025-07-26T01:07:20.105201"
+    "analysis_timestamp": "2025-07-26T11:33:46.832598"
   },
   "0x7e3eab408b9c76a13305ef34606f17c16f7b33cc": {
     "total_score": 340,
     "features": {
       "wallet_address": "0x7e3eab408b9c76a13305ef34606f17c16f7b33cc",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -2549,13 +2549,13 @@
         "final_score": 340
       }
     },
-    "analysis_timestamp": "2025-07-26T01:07:22.855149"
+    "analysis_timestamp": "2025-07-26T11:33:49.692181"
   },
   "0x7f5e6a28afc9fb0aaf4259d4ff69991b88ebea47": {
     "total_score": 164,
     "features": {
       "wallet_address": "0x7f5e6a28afc9fb0aaf4259d4ff69991b88ebea47",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -2593,13 +2593,13 @@
         "final_score": 164
       }
     },
-    "analysis_timestamp": "2025-07-26T01:07:25.724114"
+    "analysis_timestamp": "2025-07-26T11:33:52.387029"
   },
   "0x83ea74c67d393c6894c34c464657bda2183a2f1a": {
     "total_score": 164,
     "features": {
       "wallet_address": "0x83ea74c67d393c6894c34c464657bda2183a2f1a",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -2637,13 +2637,13 @@
         "final_score": 164
       }
     },
-    "analysis_timestamp": "2025-07-26T01:07:28.481240"
+    "analysis_timestamp": "2025-07-26T11:33:54.875145"
   },
   "0x8441fecef5cc6f697be2c4fc4a36feacede8df67": {
     "total_score": 339,
     "features": {
       "wallet_address": "0x8441fecef5cc6f697be2c4fc4a36feacede8df67",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -2683,13 +2683,13 @@
         "final_score": 339
       }
     },
-    "analysis_timestamp": "2025-07-26T01:07:30.960984"
+    "analysis_timestamp": "2025-07-26T11:33:57.413920"
   },
   "0x854a873b8f9bfac36a5eb9c648e285a095a7478d": {
     "total_score": 177,
     "features": {
       "wallet_address": "0x854a873b8f9bfac36a5eb9c648e285a095a7478d",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -2727,13 +2727,13 @@
         "final_score": 177
       }
     },
-    "analysis_timestamp": "2025-07-26T01:07:33.417010"
+    "analysis_timestamp": "2025-07-26T11:34:00.089028"
   },
   "0x8587d9f794f06d976c2ec1cfd523983b856f5ca9": {
     "total_score": 164,
     "features": {
       "wallet_address": "0x8587d9f794f06d976c2ec1cfd523983b856f5ca9",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -2771,13 +2771,13 @@
         "final_score": 164
       }
     },
-    "analysis_timestamp": "2025-07-26T01:07:35.974178"
+    "analysis_timestamp": "2025-07-26T11:34:02.910203"
   },
   "0x880a0af12da55df1197f41697c1a1b61670ed410": {
     "total_score": 376,
     "features": {
       "wallet_address": "0x880a0af12da55df1197f41697c1a1b61670ed410",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -2817,13 +2817,13 @@
         "final_score": 376
       }
     },
-    "analysis_timestamp": "2025-07-26T01:07:38.714242"
+    "analysis_timestamp": "2025-07-26T11:34:05.466242"
   },
   "0x8aaece100580b749a20f8ce30338c4e0770b65ed": {
     "total_score": 177,
     "features": {
       "wallet_address": "0x8aaece100580b749a20f8ce30338c4e0770b65ed",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -2861,13 +2861,13 @@
         "final_score": 177
       }
     },
-    "analysis_timestamp": "2025-07-26T01:07:41.498144"
+    "analysis_timestamp": "2025-07-26T11:34:08.170343"
   },
   "0x8be38ea2b22b706aef313c2de81f7d179024dd30": {
     "total_score": 408,
     "features": {
       "wallet_address": "0x8be38ea2b22b706aef313c2de81f7d179024dd30",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -2907,13 +2907,13 @@
         "final_score": 408
       }
     },
-    "analysis_timestamp": "2025-07-26T01:07:44.403462"
+    "analysis_timestamp": "2025-07-26T11:34:10.980476"
   },
   "0x8d900f213db5205c529aaba5d10e71a0ed2646db": {
     "total_score": 145,
     "features": {
       "wallet_address": "0x8d900f213db5205c529aaba5d10e71a0ed2646db",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -2949,13 +2949,13 @@
         "final_score": 145
       }
     },
-    "analysis_timestamp": "2025-07-26T01:07:47.334198"
+    "analysis_timestamp": "2025-07-26T11:34:13.643733"
   },
   "0x91919344c1dad09772d19ad8ad4f1bcd29c51f27": {
     "total_score": 164,
     "features": {
       "wallet_address": "0x91919344c1dad09772d19ad8ad4f1bcd29c51f27",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -2993,13 +2993,13 @@
         "final_score": 164
       }
     },
-    "analysis_timestamp": "2025-07-26T01:07:50.212930"
+    "analysis_timestamp": "2025-07-26T11:34:16.361169"
   },
   "0x93f0891bf71d8abed78e0de0885bd26355bb8b1d": {
     "total_score": 357,
     "features": {
       "wallet_address": "0x93f0891bf71d8abed78e0de0885bd26355bb8b1d",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -3039,13 +3039,13 @@
         "final_score": 357
       }
     },
-    "analysis_timestamp": "2025-07-26T01:07:53.242532"
+    "analysis_timestamp": "2025-07-26T11:34:19.205060"
   },
   "0x96479b087cb8f236a5e2dcbfc50ce63b2f421da6": {
     "total_score": 348,
     "features": {
       "wallet_address": "0x96479b087cb8f236a5e2dcbfc50ce63b2f421da6",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -3085,13 +3085,13 @@
         "final_score": 348
       }
     },
-    "analysis_timestamp": "2025-07-26T01:07:57.130191"
+    "analysis_timestamp": "2025-07-26T11:34:23.259476"
   },
   "0x96bb4447a02b95f1d1e85374cffd565eb22ed2f8": {
     "total_score": 313,
     "features": {
       "wallet_address": "0x96bb4447a02b95f1d1e85374cffd565eb22ed2f8",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -3131,13 +3131,13 @@
         "final_score": 313
       }
     },
-    "analysis_timestamp": "2025-07-26T01:07:59.671178"
+    "analysis_timestamp": "2025-07-26T11:34:25.978512"
   },
   "0x9a363adc5d382c04d36b09158286328f75672098": {
     "total_score": 149,
     "features": {
       "wallet_address": "0x9a363adc5d382c04d36b09158286328f75672098",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -3175,13 +3175,13 @@
         "final_score": 149
       }
     },
-    "analysis_timestamp": "2025-07-26T01:08:02.235795"
+    "analysis_timestamp": "2025-07-26T11:34:28.713409"
   },
   "0x9ad1331c5b6c5a641acffb32719c66a80c6e1a17": {
     "total_score": 371,
     "features": {
       "wallet_address": "0x9ad1331c5b6c5a641acffb32719c66a80c6e1a17",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -3221,13 +3221,13 @@
         "final_score": 371
       }
     },
-    "analysis_timestamp": "2025-07-26T01:08:05.053343"
+    "analysis_timestamp": "2025-07-26T11:34:31.470282"
   },
   "0x9ba0d85f71e145ccf15225e59631e5a883d5d74a": {
     "total_score": 347,
     "features": {
       "wallet_address": "0x9ba0d85f71e145ccf15225e59631e5a883d5d74a",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -3267,13 +3267,13 @@
         "final_score": 347
       }
     },
-    "analysis_timestamp": "2025-07-26T01:08:07.828414"
+    "analysis_timestamp": "2025-07-26T11:34:34.404097"
   },
   "0x9e6ec4e98793970a1307262ba68d37594e58cd78": {
     "total_score": 369,
     "features": {
       "wallet_address": "0x9e6ec4e98793970a1307262ba68d37594e58cd78",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -3313,13 +3313,13 @@
         "final_score": 369
       }
     },
-    "analysis_timestamp": "2025-07-26T01:08:10.672501"
+    "analysis_timestamp": "2025-07-26T11:34:37.181506"
   },
   "0xa7e94d933eb0c439dda357f61244a485246e97b8": {
     "total_score": 114,
     "features": {
       "wallet_address": "0xa7e94d933eb0c439dda357f61244a485246e97b8",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -3359,13 +3359,13 @@
         "final_score": 114
       }
     },
-    "analysis_timestamp": "2025-07-26T01:08:13.247404"
+    "analysis_timestamp": "2025-07-26T11:34:39.858678"
   },
   "0xa7f3c74f0255796fd5d3ddcf88db769f7a6bf46a": {
     "total_score": 328,
     "features": {
       "wallet_address": "0xa7f3c74f0255796fd5d3ddcf88db769f7a6bf46a",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -3405,13 +3405,13 @@
         "final_score": 328
       }
     },
-    "analysis_timestamp": "2025-07-26T01:08:17.760444"
+    "analysis_timestamp": "2025-07-26T11:34:44.051109"
   },
   "0xa98dc64bb42575efec7d1e4560c029231ce5da51": {
     "total_score": 190,
     "features": {
       "wallet_address": "0xa98dc64bb42575efec7d1e4560c029231ce5da51",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -3449,13 +3449,13 @@
         "final_score": 190
       }
     },
-    "analysis_timestamp": "2025-07-26T01:08:20.276891"
+    "analysis_timestamp": "2025-07-26T11:34:47.047213"
   },
   "0xb271ff7090b39028eb6e711c3f89a3453d5861ee": {
     "total_score": 350,
     "features": {
       "wallet_address": "0xb271ff7090b39028eb6e711c3f89a3453d5861ee",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -3495,13 +3495,13 @@
         "final_score": 350
       }
     },
-    "analysis_timestamp": "2025-07-26T01:08:22.860548"
+    "analysis_timestamp": "2025-07-26T11:34:50.060191"
   },
   "0xb475576594ae44e1f75f534f993cbb7673e4c8b6": {
     "total_score": 164,
     "features": {
       "wallet_address": "0xb475576594ae44e1f75f534f993cbb7673e4c8b6",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -3539,13 +3539,13 @@
         "final_score": 164
       }
     },
-    "analysis_timestamp": "2025-07-26T01:08:25.594401"
+    "analysis_timestamp": "2025-07-26T11:34:53.525223"
   },
   "0xb57297c5d02def954794e593db93d0a302e43e5c": {
     "total_score": 357,
     "features": {
       "wallet_address": "0xb57297c5d02def954794e593db93d0a302e43e5c",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -3585,13 +3585,13 @@
         "final_score": 357
       }
     },
-    "analysis_timestamp": "2025-07-26T01:08:28.092725"
+    "analysis_timestamp": "2025-07-26T11:34:56.739144"
   },
   "0xbd4a00764217c13a246f86db58d74541a0c3972a": {
     "total_score": 361,
     "features": {
       "wallet_address": "0xbd4a00764217c13a246f86db58d74541a0c3972a",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -3631,13 +3631,13 @@
         "final_score": 361
       }
     },
-    "analysis_timestamp": "2025-07-26T01:08:32.081571"
+    "analysis_timestamp": "2025-07-26T11:35:03.794414"
   },
   "0xc179d55f7e00e789915760f7d260a1bf6285278b": {
     "total_score": 397,
     "features": {
       "wallet_address": "0xc179d55f7e00e789915760f7d260a1bf6285278b",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -3677,13 +3677,13 @@
         "final_score": 397
       }
     },
-    "analysis_timestamp": "2025-07-26T01:08:34.585197"
+    "analysis_timestamp": "2025-07-26T11:35:07.292490"
   },
   "0xc22b8e78394ce52e0034609a67ae3c959daa84bc": {
     "total_score": 327,
     "features": {
       "wallet_address": "0xc22b8e78394ce52e0034609a67ae3c959daa84bc",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -3723,13 +3723,13 @@
         "final_score": 327
       }
     },
-    "analysis_timestamp": "2025-07-26T01:08:37.446213"
+    "analysis_timestamp": "2025-07-26T11:35:12.323351"
   },
   "0xcbbd9fe837a14258286bbf2e182cbc4e4518c5a3": {
     "total_score": 361,
     "features": {
       "wallet_address": "0xcbbd9fe837a14258286bbf2e182cbc4e4518c5a3",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -3769,13 +3769,13 @@
         "final_score": 361
       }
     },
-    "analysis_timestamp": "2025-07-26T01:08:40.216628"
+    "analysis_timestamp": "2025-07-26T11:35:15.527015"
   },
   "0xcecf5163bb057c1aff4963d9b9a7d2f0bf591710": {
     "total_score": 331,
     "features": {
       "wallet_address": "0xcecf5163bb057c1aff4963d9b9a7d2f0bf591710",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -3815,13 +3815,13 @@
         "final_score": 331
       }
     },
-    "analysis_timestamp": "2025-07-26T01:08:43.282499"
+    "analysis_timestamp": "2025-07-26T11:35:18.814910"
   },
   "0xcf0033bf27804640e5339e06443e208db5870dd2": {
     "total_score": 164,
     "features": {
       "wallet_address": "0xcf0033bf27804640e5339e06443e208db5870dd2",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -3859,13 +3859,13 @@
         "final_score": 164
       }
     },
-    "analysis_timestamp": "2025-07-26T01:08:45.906129"
+    "analysis_timestamp": "2025-07-26T11:35:21.504006"
   },
   "0xd0df53e296c1e3115fccc3d7cdf4ba495e593b56": {
     "total_score": 177,
     "features": {
       "wallet_address": "0xd0df53e296c1e3115fccc3d7cdf4ba495e593b56",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -3903,13 +3903,13 @@
         "final_score": 177
       }
     },
-    "analysis_timestamp": "2025-07-26T01:08:48.436670"
+    "analysis_timestamp": "2025-07-26T11:35:24.662468"
   },
   "0xd1a3888fd8f490367c6104e10b4154427c02dd9c": {
     "total_score": 164,
     "features": {
       "wallet_address": "0xd1a3888fd8f490367c6104e10b4154427c02dd9c",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -3947,13 +3947,13 @@
         "final_score": 164
       }
     },
-    "analysis_timestamp": "2025-07-26T01:08:51.246150"
+    "analysis_timestamp": "2025-07-26T11:35:27.864113"
   },
   "0xd334d18fa6bada9a10f361bae42a019ce88a3c33": {
     "total_score": 344,
     "features": {
       "wallet_address": "0xd334d18fa6bada9a10f361bae42a019ce88a3c33",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -3993,13 +3993,13 @@
         "final_score": 344
       }
     },
-    "analysis_timestamp": "2025-07-26T01:08:53.772660"
+    "analysis_timestamp": "2025-07-26T11:35:31.099187"
   },
   "0xd9d3930ffa343f5a0eec7606d045d0843d3a02b4": {
     "total_score": 313,
     "features": {
       "wallet_address": "0xd9d3930ffa343f5a0eec7606d045d0843d3a02b4",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -4039,13 +4039,13 @@
         "final_score": 313
       }
     },
-    "analysis_timestamp": "2025-07-26T01:08:56.492992"
+    "analysis_timestamp": "2025-07-26T11:35:33.932475"
   },
   "0xdde73df7bd4d704a89ad8421402701b3a460c6e9": {
     "total_score": 344,
     "features": {
       "wallet_address": "0xdde73df7bd4d704a89ad8421402701b3a460c6e9",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -4085,13 +4085,13 @@
         "final_score": 344
       }
     },
-    "analysis_timestamp": "2025-07-26T01:08:59.088857"
+    "analysis_timestamp": "2025-07-26T11:35:37.150148"
   },
   "0xde92d70253604fd8c5998c8ee3ed282a41b33b7f": {
     "total_score": 177,
     "features": {
       "wallet_address": "0xde92d70253604fd8c5998c8ee3ed282a41b33b7f",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -4129,13 +4129,13 @@
         "final_score": 177
       }
     },
-    "analysis_timestamp": "2025-07-26T01:09:01.851775"
+    "analysis_timestamp": "2025-07-26T11:35:40.026327"
   },
   "0xded1f838ae6aa5fcd0f13481b37ee88e5bdccb3d": {
     "total_score": 217,
     "features": {
       "wallet_address": "0xded1f838ae6aa5fcd0f13481b37ee88e5bdccb3d",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -4173,13 +4173,13 @@
         "final_score": 217
       }
     },
-    "analysis_timestamp": "2025-07-26T01:09:04.367015"
+    "analysis_timestamp": "2025-07-26T11:35:43.113910"
   },
   "0xebb8629e8a3ec86cf90cb7600264415640834483": {
     "total_score": 290,
     "features": {
       "wallet_address": "0xebb8629e8a3ec86cf90cb7600264415640834483",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -4219,13 +4219,13 @@
         "final_score": 290
       }
     },
-    "analysis_timestamp": "2025-07-26T01:09:06.909406"
+    "analysis_timestamp": "2025-07-26T11:35:46.195562"
   },
   "0xeded1c8c0a0c532195b8432153f3bfa81dba2a90": {
     "total_score": 313,
     "features": {
       "wallet_address": "0xeded1c8c0a0c532195b8432153f3bfa81dba2a90",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -4265,13 +4265,13 @@
         "final_score": 313
       }
     },
-    "analysis_timestamp": "2025-07-26T01:09:09.797173"
+    "analysis_timestamp": "2025-07-26T11:35:49.385799"
   },
   "0xf10fd8921019615a856c1e95c7cd3632de34edc4": {
     "total_score": 178,
     "features": {
       "wallet_address": "0xf10fd8921019615a856c1e95c7cd3632de34edc4",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -4309,13 +4309,13 @@
         "final_score": 178
       }
     },
-    "analysis_timestamp": "2025-07-26T01:09:12.436486"
+    "analysis_timestamp": "2025-07-26T11:35:52.623365"
   },
   "0xf340b9f2098f80b86fbc5ede586c319473aa11f3": {
     "total_score": 341,
     "features": {
       "wallet_address": "0xf340b9f2098f80b86fbc5ede586c319473aa11f3",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -4355,13 +4355,13 @@
         "final_score": 341
       }
     },
-    "analysis_timestamp": "2025-07-26T01:09:16.400142"
+    "analysis_timestamp": "2025-07-26T11:35:56.380292"
   },
   "0xf54f36bca969800fd7d63a68029561309938c09b": {
     "total_score": 164,
     "features": {
       "wallet_address": "0xf54f36bca969800fd7d63a68029561309938c09b",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -4399,13 +4399,13 @@
         "final_score": 164
       }
     },
-    "analysis_timestamp": "2025-07-26T01:09:18.982748"
+    "analysis_timestamp": "2025-07-26T11:35:59.430281"
   },
   "0xf60304b534f74977e159b2e159e135475c245526": {
     "total_score": 327,
     "features": {
       "wallet_address": "0xf60304b534f74977e159b2e159e135475c245526",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -4445,13 +4445,13 @@
         "final_score": 327
       }
     },
-    "analysis_timestamp": "2025-07-26T01:09:21.860055"
+    "analysis_timestamp": "2025-07-26T11:36:02.288252"
   },
   "0xf67e8e5805835465f7eba988259db882ab726800": {
     "total_score": 164,
     "features": {
       "wallet_address": "0xf67e8e5805835465f7eba988259db882ab726800",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -4489,13 +4489,13 @@
         "final_score": 164
       }
     },
-    "analysis_timestamp": "2025-07-26T01:09:24.478796"
+    "analysis_timestamp": "2025-07-26T11:36:05.683775"
   },
   "0xf7aa5d0752cfcd41b0a5945867d619a80c405e52": {
     "total_score": 164,
     "features": {
       "wallet_address": "0xf7aa5d0752cfcd41b0a5945867d619a80c405e52",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -4533,13 +4533,13 @@
         "final_score": 164
       }
     },
-    "analysis_timestamp": "2025-07-26T01:09:27.233102"
+    "analysis_timestamp": "2025-07-26T11:36:09.033826"
   },
   "0xf80a8b9cfff0febf49914c269fb8aead4a22f847": {
     "total_score": 350,
     "features": {
       "wallet_address": "0xf80a8b9cfff0febf49914c269fb8aead4a22f847",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -4579,13 +4579,13 @@
         "final_score": 350
       }
     },
-    "analysis_timestamp": "2025-07-26T01:09:29.802081"
+    "analysis_timestamp": "2025-07-26T11:36:11.698491"
   },
   "0xfe5a05c0f8b24fca15a7306f6a4ebb7dcf2186ac": {
     "total_score": 164,
     "features": {
       "wallet_address": "0xfe5a05c0f8b24fca15a7306f6a4ebb7dcf2186ac",
-      "extraction_timestamp": "2025-07-26T01:04:35.334617",
+      "extraction_timestamp": "2025-07-26T11:31:01.260665",
       "health_factor": 5.0,
       "health_factor_risk": 0.1,
       "liquidation_count": 0,
@@ -4623,6 +4623,6 @@
         "final_score": 164
       }
     },
-    "analysis_timestamp": "2025-07-26T01:09:32.205052"
+    "analysis_timestamp": "2025-07-26T11:36:14.570662"
   }
 }

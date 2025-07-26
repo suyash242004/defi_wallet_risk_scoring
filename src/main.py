@@ -115,17 +115,27 @@ def print_summary_statistics(scores):
 
 def plot_risk_distribution(scores):
     import matplotlib.pyplot as plt
+    from pathlib import Path
+
+    Path('output').mkdir(exist_ok=True)
+
     score_values = list(scores.values())
     bins = [0, 200, 400, 600, 800, 1000]
     labels = ['Low (0-200)', 'Medium-Low (201-400)', 'Medium (401-600)', 'High (601-800)', 'Very High (801-1000)']
+
     plt.hist(score_values, bins=bins, edgecolor='black')
     plt.xlabel('Risk Score')
     plt.ylabel('Number of Wallets')
     plt.title('Risk Score Distribution')
-    plt.xticks(bins, labels, rotation=45)
+
+    # ✅ Fix tick positions
+    midpoints = [(bins[i] + bins[i+1]) / 2 for i in range(len(bins)-1)]
+    plt.xticks(midpoints, labels, rotation=45)
+
     plt.tight_layout()
     plt.savefig('output/risk_distribution.png')
-    plt.close()        
+    plt.close()
+      
 
 def main():
     """Main execution function."""
